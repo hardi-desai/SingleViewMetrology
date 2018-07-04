@@ -1,4 +1,4 @@
-Following an implementation of the paper “single view metrology”. It computes affine 3D geometry from a single perspective image using prior knowledge.
+Following is an implementation of the paper “single view metrology”. It computes affine 3D geometry from a single perspective image using prior knowledge.
 
 For annotation Line Segment Detection is used.
 
